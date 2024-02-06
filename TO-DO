@@ -1,2 +1,5 @@
--armar Base de datos basandonos en un drive o un csv. Crear un campo "pasamos" con default falso
--comando /prox-cursos que te devuelva los cursos +
+-Si se automatiza  
+  -armar Base de datos basandonos en un drive o un csv. Crear un campo "pasamos" con default falso DONE
+  -Scrapear el csv completo
+  -Ejecutar dentro del bot todo (preguntarle a zoe que quiere decir)
+-comando /prox-cursos que te devuelva los cursos + cercanos

@@ -18,6 +18,7 @@ class Aulas(BaseModel):
     fin = pw.TimeField()
     pab = pw.IntegerField()
     aula = pw.CharField()
+    pasamos = pw.BooleanField(default=False)
 
 
 def models_db_connection():
